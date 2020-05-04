@@ -1,11 +1,23 @@
 {
-  "author": "Vladimir Barbarosh",
-  "name": "@vbarbarosh/node-cli",
-  "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "main": "src/cli.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "name": "@vbarbarosh/node-cli",
+    "author": "Vladimir Barbarosh",
+    "version": "0.0.0",
+    "description": "Entry point for Node CLI apps",
+    "license": "ISC",
+    "type": "module",
+    "files": [
+        "src"
+    ],
+    "keywords": [
+        "cli"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vbarbarosh/node-cli.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vbarbarosh/node-cli/issues"
+    },
+    "homepage": "https://github.com/vbarbarosh/node-cli/issues"
 }
+
