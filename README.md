@@ -1,4 +1,4 @@
-An entry point for Node CLI apps
+Entry point for Node CLI apps
 
 ## Installation
 
