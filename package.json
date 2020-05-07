@@ -4,6 +4,7 @@
     "version": "0.0.0",
     "description": "Entry point for Node CLI apps",
     "license": "ISC",
+    "main": "src/cli.js",
     "type": "module",
     "files": [
         "src"
