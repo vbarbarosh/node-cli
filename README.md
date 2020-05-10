@@ -9,7 +9,7 @@ npm i vbarbarosh/node-cli
 ## Basic usage
 
 ```javascript
-#!/usr/bin/env node
+#!/usr/bin/env node-esm
 
 import cli from '@vbarbarosh/node-cli';
 
