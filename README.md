@@ -3,7 +3,7 @@ Entry point for Node CLI apps
 ## Installation
 
 ```shell
-npm i vbarbarosh/node-cli
+npm i @vbarbarosh/node-cli
 ```
 
 ## Basic usage
