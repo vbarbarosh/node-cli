@@ -1,7 +1,7 @@
 {
     "name": "@vbarbarosh/node-cli",
     "author": "Vladimir Barbarosh",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Entry point for Node CLI apps",
     "license": "MIT",
     "main": "src/cli.js",
@@ -20,4 +20,3 @@
     },
     "homepage": "https://github.com/vbarbarosh/node-cli/issues"
 }
-
