@@ -3,7 +3,7 @@
     "author": "Vladimir Barbarosh",
     "version": "0.0.0",
     "description": "Entry point for Node CLI apps",
-    "license": "ISC",
+    "license": "MIT",
     "main": "src/cli.js",
     "files": [
         "src"
