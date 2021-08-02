@@ -20,3 +20,8 @@ async function main()
     console.log('Hello...');
 }
 ```
+
+## References
+
+* https://www.npmjs.com/package/@vbarbarosh/node-cli
+* 
