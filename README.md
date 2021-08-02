@@ -24,3 +24,4 @@ async function main()
 ## References
 
 * https://www.npmjs.com/package/@vbarbarosh/node-cli
+* https://github.com/vbarbarosh/node-helpers/blob/main/src/cli.js
